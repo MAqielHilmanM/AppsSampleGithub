@@ -1,7 +1,9 @@
-package maqielhm.appssamplegithub;
+package maqielhm.appssamplegithub.main;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import maqielhm.appssamplegithub.R;
 
 public class MainActivity extends AppCompatActivity {
 
